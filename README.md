@@ -1,1 +1,1 @@
-# INSE6220_project
+Code and dataset for INSE 6220 project.
